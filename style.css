@@ -87,3 +87,37 @@ p {
     color:#333;
 }
 
+/*Timeline Section*/
+.timeline {
+    list-style:none;
+    border-left:4.5px solid #c9922a;
+    padding-left:25px;
+}
+
+.timeline li {
+    margin-bottom:24px;
+    position:relative;
+}
+
+.timeline li::before {
+    content:'';
+    position:absolute;
+    left:-9px;
+    top:0;
+    width:16px;
+    height:16px;
+    background:#c9922a;
+    border-radius:50%;
+}
+
+.timeline strong {
+    color:#1a3a2a;
+    display:block;
+    margin-bottom:4px;
+}
+
+.timeline span {
+    font-size:0.9em;
+    color:#555;
+}
+
