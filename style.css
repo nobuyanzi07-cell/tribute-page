@@ -54,3 +54,12 @@ img {
     padding:40px 20px;
     font-style:italic;
 }
+
+.quote-banner blockquote {
+    font-size:1.2em;
+    margin:0 auto;
+    max-width:640px;
+    color: rgba(255, 255, 255, 0.8);
+    font-style:italic;
+}
+
