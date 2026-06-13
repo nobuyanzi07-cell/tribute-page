@@ -63,3 +63,27 @@ img {
     font-style:italic;
 }
 
+/*main content*/
+main {
+    max-width:760px;
+    margin:0 auto;
+    padding:48px 20px;
+}
+
+section {
+    margin-bottom:48px;
+}
+
+h2 {
+    font-size:1.8em;
+    margin-bottom:20px;
+    color:#1a3a2a;
+    border-bottom:2px solid #c9922a;
+    padding-bottom:8px;
+}
+
+p {
+    margin-bottom:16px;
+    color:#333;
+}
+
