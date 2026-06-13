@@ -87,5 +87,12 @@ p {
     color:#333;
 }
 
-
+/*quote itself*/
+blockquote {
+    border-left:4px solid #c9922a;
+    padding-left:16px;
+    margin:24px 0;
+    color:#555;
+    font-style:italic;
+}
 
