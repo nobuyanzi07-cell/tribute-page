@@ -96,3 +96,18 @@ blockquote {
     font-style:italic;
 }
 
+/*footer*/
+footer {
+    background:#1a3a2a;
+    color:#fff;
+    text-align:center;
+    padding:24px 20px;
+    font-size:0.9em;
+}
+
+/*Responsive Design*/
+@media (max-width: 600px) {
+    .hero h1 {
+        font-size:1.8em;
+    }   
+}
